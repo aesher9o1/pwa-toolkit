@@ -29,3 +29,9 @@ const PRECACHE_URLS = [
   'index.html'
 ];
 ```
+
+## Enable PWA desktop
+1. Search for chrome://flags/ 
+2. Enable *App Banners* or visit chrome://flags/#enable-app-banners
+3. You are ready to go ❤❤❤❤ 
+
